@@ -1,0 +1,8 @@
+.vs/
+.git/
+bin/
+bin-int/
+Engine/game/
+Engine/credits.txt
+*.vcxproj.filters
+*.vcxproj.user
