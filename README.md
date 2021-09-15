@@ -1,1 +1,1 @@
-### [The last evening by candlelight](https://anivisual.net/stuff/35-1-0-3650) - визуальная новелла созданная для [Anivisual Jam #3](https://anivisual.net/jam3) с использованием самописного движка [Rebirth Engine](https://github.com/DezlowNG/Rebirth)
+### [The last evening by candlelight](https://anivisual.net/stuff/35-1-0-3650) - Visual Novel created for [Anivisual Jam #3](https://anivisual.net/jam3) with using [Rebirth Engine](https://github.com/DezlowNG/Rebirth)
